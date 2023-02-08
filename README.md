@@ -3,7 +3,7 @@
 
 ## Base Strategy
 
-![Base Strategy](
+![Base Strategy](/Images/initial_strategy.png)
 
 ### The base strategy as outlined in the module had very poor retun as per the graph and would likely loose money if traded based on it.
 
