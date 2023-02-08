@@ -12,13 +12,13 @@
 
 ## SMA with SVM Strategy Returns
 
-![SMA with SVM Strategy Returns](
+![SMA with SVM Strategy Returns](/Images/SMA_SVM.png)
 
 ### The moving average with SVM stratefy returns graph above, shows that the strategy teruns did better than the actual returns.
 
 
 ## SMA with Linear Regression
 
-![SMA with Linear Regression](
+![SMA with Linear Regression](/Images/SMA_LR.png)
 
 ### Using the Linear Regression model it mostly perfomed better than the base strategy but the model went the opposite way towards the end of 2021.
