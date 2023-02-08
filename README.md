@@ -19,6 +19,6 @@
 
 ## SMA with Linear Regression
 
-![SMA with Linear Regression](/Images/SMA_LR.png)
+![SMA with Logistic Regression](/Images/SMA_LR.png)
 
-### Using the Linear Regression model it mostly perfomed better than the base strategy but the model went the opposite way towards the end of 2021.
+### Using the Logistic Regression model it mostly perfomed better than the base strategy but the model went the opposite way towards the end of 2021.
